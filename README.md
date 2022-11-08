@@ -1,5 +1,4 @@
-![github Henry STUDENTS-08](https://user-images.githubusercontent.com/107437401/200632421-bf3615d2-f661-48f2-bd32-b9d7d51769c6.png)
-
+![banner github MT](https://user-images.githubusercontent.com/107437401/200635705-c0e2dba4-1ca7-4b66-a7ae-0ef3fd61f810.jpg)
 
 
 Hola me llamo Mateo, me gusta mucho la programacion y estoy con hambre de mas concocimiento en este rubro. Soy profesional a la hora de trabajar y considero que es muy importante el trabajo en equipo
