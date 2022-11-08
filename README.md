@@ -1,6 +1,6 @@
 
 <h1 align="center">Hola, me llamo Mateo</h1>
-<h3 align="center">Soy un programador Fullstack de argentina, me gusta mucho la programación y estoy con hambre de mas conocimiento en este rubro. Soy profesional a la hora de trabajar y considero que es muy importante el trabajo en equipo.</h3>
+<h3 align="center">Soy un programador Fullstack de argentina, me gusta mucho la programación y estoy con hambre de mas conocimiento en este rubro. Soy profesional a la hora de trabajar y considero que es muy importante el trabajo en equipo. Actualmente mi principal objetivo es seguir aprendiendo nuevas tecnologías y también seguir realizando nuevos proyectos. Y en un futuro me gustaría ver el mundo de la Ciberseguridad que es algo que me interesa demasiado.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mateotironi&label=Profile%20views&color=0e75b6&style=flat" alt="mateotironi" /> </p>
 
