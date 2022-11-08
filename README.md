@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/107437401/200656067-8ad07154-9a27-4a4d-97ab-38d7d46658fb.png)
 
 <h1 align="center">Hola, me llamo Mateo</h1>
-<h3 align="center">Soy un programador Fullstack de argentina, me gusta mucho la programación y estoy con hambre de mas conocimiento en este rubro. Soy profesional a la hora de trabajar y considero que es muy importante el trabajo en equipo. Actualmente mi principal objetivo es seguir aprendiendo nuevas tecnologías y también seguir realizando nuevos proyectos. Y en un futuro me gustaría ver el mundo de la Ciberseguridad que es algo que me interesa demasiado.</h3>
+<h3 align="center">Tengo 18 años y soy un programador Fullstack de argentina, me gusta mucho la programación y estoy con hambre de mas conocimiento en este rubro. Soy profesional a la hora de trabajar y considero que es muy importante el trabajo en equipo. Actualmente mi principal objetivo es seguir aprendiendo nuevas tecnologías y también seguir realizando nuevos proyectos. Y en un futuro me gustaría ver el mundo de la Ciberseguridad que es algo que me interesa demasiado. A continuacion veras todo lo que pude aprender en transcurso del bootcamp fullstack developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mateotironi&label=Profile%20views&color=0e75b6&style=flat" alt="mateotironi" /> </p>
 
