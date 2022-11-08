@@ -6,9 +6,7 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 📫 Contact **tironimateo02@gmail.com**
-
-- 📄 Experience [https://www.linkedin.com/in/mateo-tironi-a42366248/](https://www.linkedin.com/in/mateo-tironi-a42366248/)
+- 📫 Contact **tironimateo02@gmail.com** o [https://www.linkedin.com/in/mateo-tironi-a42366248/](https://www.linkedin.com/in/mateo-tironi-a42366248/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
