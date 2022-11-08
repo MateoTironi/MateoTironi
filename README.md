@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mateotironi&label=Profile%20views&color=0e75b6&style=flat" alt="mateotironi" /> </p>
 
+- 🌱 I’m currently learning **TypeScript**
+
 - 📫 Contacto **tironimateo02@gmail.com**
 
 - 📄 Mi experiencia [https://www.linkedin.com/in/mateo-tironi-a42366248/](https://www.linkedin.com/in/mateo-tironi-a42366248/)
@@ -20,3 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mateotironi&show_icons=true&locale=en" alt="mateotironi" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mateotironi&" alt="mateotironi" /></p>
